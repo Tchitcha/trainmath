@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 20 17:49:48 2021
 
-@author: tchitcha
+@author: tchitcha / Fabien Lescot
 """
 
 import random
